@@ -10,7 +10,7 @@
 #We are making changes to demo branch deletion
 
 # diff change test
-    <name> -- Keyur -- <twitter>
+    <name> -- Keyur -- KeyurTwitter
 
 # THANKS
 
