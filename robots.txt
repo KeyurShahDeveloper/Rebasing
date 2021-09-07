@@ -1,0 +1,13 @@
+# www.robotstxt.org/
+#Robots are going to change the fact of life in near future
+# Allow crawling of all content
+# Robots can be used to serve the needs of human being.
+# Today obot is very versatile
+# Git Ammendment
+User-agent: *
+Disallow:
+# This line has been added to demonstrate the usage of "git pull" command
+# This line has been added to demonstrate the usage of "git push" commanii
+# This line has been added to demonstrate the usage of SSH protocol
+
+# some line

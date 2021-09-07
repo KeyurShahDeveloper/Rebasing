@@ -1,0 +1,21 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+# Humans have both vcollective and individual responsiblity 
+# Befor merging, we do some changes.
+#  human is a sociel being
+
+# TEAM
+#some change ---now
+#We are making changes to demo branch deletion
+
+# diff change test
+    <name> -- <role> -- <twitter>
+
+# THANKS
+
+  Bibhash Roy
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
