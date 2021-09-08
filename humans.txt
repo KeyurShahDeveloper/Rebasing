@@ -18,5 +18,4 @@
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    jQuery, Modernizr
+    Data Science , Python and Swift
